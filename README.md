@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Axel.  I am a software tester hoping to branc out into software development
+- 👋 Hi, I’m Axel.  I am a software tester hoping to branch out into software development
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning Ruby on Rails, CSS(bootstrap), Javascript, Node.js, React.js
 - 💞️ I’m looking to collaborate on anything I can!
