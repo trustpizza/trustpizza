@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Axel.  I am a software tester hoping to branch out into software development
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Ruby on Rails, CSS(bootstrap), Javascript, Node.js, React.js
+- 🌱 I’m currently learning Ruby on Rails, HTML/CSS, Javascript, React.js
 - 💞️ I’m looking to collaborate on anything I can!
 - 📫 How to reach me: email me at maxelolsson@gmail.com
 
