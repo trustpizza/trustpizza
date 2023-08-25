@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel Olsson</h1>
 <h3 align="center">A passionate self-taught full-stack developer</h3>
 
-- 🔭 I’m currently working on [Creating a Portfolio and Blog Ruby on Rails site](https://github.com/trustpizza/portfolio-rails)
+- 🔭 I’m currently working as a Full Stack software developer at PVC.  For an updated git history, please reach out!
 
 - 🌱 I’m currently learning **React and Node.js**
 
