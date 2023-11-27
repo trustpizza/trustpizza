@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working as a Full Stack software developer at PVC.  For an updated git history, please reach out!
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **React and Python**
 
 - 👯 I’m looking to collaborate on [TheOdinProject](https://github.com/TheOdinProject)
 
 - 👨‍💻 All of my projects are available at [https://trustpizza.github.io/portfolio/](https://trustpizza.github.io/portfolio/)
 
-- 💬 Ask me about **Ruby on Rails, Javascript, HTML/CSS**
+- 💬 Ask me about **Ruby on Rails, Python, Javascript, HTML/CSS**
 
 - 📫 How to reach me **maxelolsson@gmail.com**
 
